@@ -6,9 +6,10 @@ I'm Jin Xuan, a Year 2 Computer Engineering undergraduate at National University
 - __Interests:__ `Software Engineering`, `Internet of Things`, `Web Development`
 - 🔭 I’m currently working on
     - a Telegram bot 🤖 using an `ESP32` to update the status of the laundry room in my hostel - [Repo](https://github.com/jinxuan-owyong/phoenix-laundry) | [Deployment](https://t.me/phoenix_laundry_bot) | Status: Completed MVP
+    - building a scheduling system using `Next.js` and `ASP.NET Core`
     - building my own website 🌐
 - 💼 I'm open to internships
-- 📖 I’m currently learning `Java` and `Next.js`
+- 📖 I’m currently learning `Java`, `Next.js`, `ASP.NET Core`, `C#`, `SQL`
 
 ![](https://komarev.com/ghpvc/?username=jinxuan-owyong)
 
