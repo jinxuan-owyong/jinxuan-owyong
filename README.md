@@ -1,15 +1,14 @@
 ## Hello 👋
 
-I'm Jin Xuan, a Year 2 Computer Engineering undergraduate at National University of Singapore 😊. 
+I'm Jin Xuan, a Year 3 Computer Engineering undergraduate at National University of Singapore 😊. 
 
 ### About
 - __Interests:__ `Software Engineering`, `Internet of Things`, `Web Development`
 - 🔭 I’m currently working on
-    - a Telegram bot 🤖 using an `ESP32` to update the status of the laundry room in my hostel - [Repo](https://github.com/jinxuan-owyong/phoenix-laundry) | [Deployment](https://t.me/phoenix_laundry_bot) | Status: Completed MVP
-    - building a scheduling system using `Next.js` and `ASP.NET Core`
+    - preparing for the AWS Certified Cloud Practitioner exam 📚
     - building my own website 🌐
 - 💼 I'm open to internships
-- 📖 I’m currently learning `Java`, `Next.js`, `ASP.NET Core`, `C#`, `SQL`
+- 📖 I’m currently learning `Next.js`, `Ember.js`, `Loopback`, `PostgreSQL`
 
 ![](https://komarev.com/ghpvc/?username=jinxuan-owyong)
 
