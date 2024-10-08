@@ -8,10 +8,11 @@ I'm Jin Xuan, a final year Computer Engineering undergraduate at National Univer
 - 👷 [AWS Certified Solutions Architect - Associate](https://go.jinxuanowyong.dev/w4Rr)
 - 🔭 I’m currently working on
     - self-hosting 🌐
+    - a web application to display parking availability in Singapore using data provided by LTA DataMall and data.gov.sg
 - 💼 I'm a Software Engineering Intern at GovTech
-- 📖 I’m currently learning `Docker`, `Terraform`, `Nginx`
+- 📖 I’m currently learning `Svelte`, `TanStack`, `Redis`
 
 ![](https://komarev.com/ghpvc/?username=jinxuan-owyong)
 
 ### Get In Touch 📞
-🔗[Website](https://go.jinxuanowyong.dev/xrXI) &nbsp; 📧[Email](jinxuan.owyong@gmail.com) &nbsp; 👤[LinkedIn](https://go.jinxuanowyong.dev/B8Dm)
+🔗[Website](https://go.jinxuanowyong.dev/xrXI) &nbsp; 📧[Email](mailto:jinxuan.owyong@gmail.com) &nbsp; 👤[LinkedIn](https://go.jinxuanowyong.dev/B8Dm)
