@@ -9,8 +9,8 @@ I'm Jin Xuan, a final year Computer Engineering undergraduate at National Univer
 - 🔭 I’m currently working on
     - self-hosting 🌐
     - a web application to display parking availability in Singapore using data provided by LTA DataMall and data.gov.sg
-- 💼 I'm a Software Engineering Intern at GovTech
-- 📖 I’m currently learning `Svelte`, `TanStack`, `Redis`
+- 💼 I'm open to work
+- 📖 I’m currently learning `Svelte`, `TanStack`, `Redis`, `Golang`
 
 ![](https://komarev.com/ghpvc/?username=jinxuan-owyong)
 
