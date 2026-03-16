@@ -5,14 +5,12 @@ I'm Jin Xuan, a final year Computer Engineering undergraduate at National Univer
 ### About
 - 🖥️ __Interests:__ `Software Engineering`, `Web Development`, `Cloud Computing`
 - 🏓 __Hobbies:__ `Table Tennis`, `Bouldering`
-- 👷 [AWS Certified Solutions Architect - Associate](https://go.jinxuanowyong.dev/w4Rr)
+- 👷 [AWS Certified Solutions Architect - Associate](https://go.jinxuano.com/w4Rr)
 - 🔭 I’m currently working on
     - self-hosting 🌐
-    - a web application to display parking availability in Singapore using data provided by LTA DataMall and data.gov.sg
-- 💼 I'm open to work
-- 📖 I’m currently learning `Svelte`, `TanStack`, `Redis`, `Golang`
+- 💼 I'm a Backend Engineer at Shopee
 
 ![](https://komarev.com/ghpvc/?username=jinxuan-owyong)
 
 ### Get In Touch 📞
-🔗[Website](https://go.jinxuanowyong.dev/xrXI) &nbsp; 📧[Email](mailto:jinxuan.owyong@gmail.com) &nbsp; 👤[LinkedIn](https://go.jinxuanowyong.dev/B8Dm)
+🔗[Website](https://go.jinxuano.com/xrXI) &nbsp; 📧[Email](mailto:jinxuan.owyong@gmail.com) &nbsp; 👤[LinkedIn](https://go.jinxuano.com/B8Dm)
